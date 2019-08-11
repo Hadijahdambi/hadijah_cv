@@ -1,0 +1,458 @@
+body{
+background-color: #ccc;
+
+
+}
+.hadijah{
+margin: 0 auto;
+/*width: 1200px;*/
+position: relative;
+background-color: white;
+}
+.pic{
+/*padding-top: 40px;*/
+background: url(../img/ocean.jpg) no-repeat;
+background-size: cover;
+padding-top: 10%;
+padding-bottom: 10%;
+
+}
+
+
+.pic h1{
+font-size: 50px;
+font-weight: bold;
+display: table;
+margin: 0 auto;
+color: #ffffff;
+border-top: 1px solid white;
+border-bottom: 1px solid white;
+
+}
+.pic a{
+border: 1px solid;
+border-color: white;
+font-size: 25px;
+font-weight: bold;
+color: white;
+padding: 10px 15px ;
+text-decoration: none;
+display: table;
+margin: 20px auto  0 auto;
+
+}
+
+.forty{
+height: 50px;
+background-color: #252e30;
+margin-top: -7px;
+margin-bottom: 0;
+
+}
+
+.center{
+	width: 1200px;
+	margin: 0 auto;
+	overflow: auto;	
+}
+
+.forty .fourlist ul li a{
+text-decoration: none;
+color: #ffffff;
+}
+.forty .fourlist ul li{
+display: inline;
+padding-right: 20px;
+
+
+
+
+}
+.fotter{
+	background-color: black;
+}
+.forty .fourlist ul {
+padding-top:0px;
+margin-top: 0px;
+margin-bottom: 40px;
+float: right;
+margin-right: 90px;
+}
+.forty .logo li img{
+height: 30px;
+width: 100px;
+float: left;
+padding-left: 80px;
+padding-top: 10px;
+}
+
+.fifty{
+width: 100%;
+height: 250px;
+background-color: white;
+}
+.values{
+width:30%;
+float: left;
+}
+.goals{
+width:30%;
+float: left;
+padding-left: 5%;
+padding-right: 5%;
+}
+.hobbies{
+width:30%;
+float: left;
+
+}
+.aboutme{
+height: 550px;
+width: 100%;
+background-color: #f2f2f1;
+margin-bottom: 0px;
+}
+.aboutme .selfie img{
+width: 450px;
+height: 550px;
+float: left;
+}
+.aboutme .text{
+width: 500px;
+height: 200px;
+float: left;
+margin-top: 10px;
+padding-left: 90px;
+}
+.aboutme .web{
+width: 200px;
+height: 50px;
+float: left;
+padding-left: 100px;
+
+}
+.lower{/*
+	width: 200px;
+height: 50px;*/
+float: left;
+padding-left: 100px;
+
+}
+.aboutme .graphics{
+width: 200px;
+height: 50px;
+float: left;
+padding-left: 90px;
+margin-right: 10px;
+}
+.aboutme .market{
+width: 200px;
+height: 20px;
+float: left;
+padding-left: 100px;
+padding-top: 120px;
+margin-right: 0px;
+}
+.aboutme .seo{
+width: 200px;
+height: 20px;
+float: right;
+padding-right: 150px;
+padding-top: 120px;
+
+
+}
+.skills{
+background-color: white;
+width: 100%;
+height: 400px;
+
+}
+.skills .myskills{
+width: 500px;
+height: 300px;
+padding: 80px;
+float: left;
+margin-bottom: 20px;
+}
+.skills .contactme a{
+border: 1.5px solid;
+border-color: #2ecc71;
+font-size: 15px;
+font-weight: bold;
+/*position: absolute;
+top: 83%;
+left: 11%;
+transform: translate(-50%,-50%);*/
+
+color: #2ecc71;
+padding: 5px;
+    text-decoration: none;
+
+}
+.skills .bars{
+float: left;
+background-color: white;
+width: 450px;
+height: 300px;
+padding: 40px;
+
+
+
+}
+.skills .bars .bar1a{
+background-color: #f2f2f1;
+height: 15px;
+width: 400px;
+}
+.skills .bars .bar1b{
+background-color: #2ecc71;
+height: 15px;
+width: 350px;
+}
+.skills .bars .bar1b p{
+color: white;
+text-align: right;
+
+
+}
+/*.skills .bar2{
+float: right;*/
+
+
+
+}
+.skills .bars .bar2a{
+background-color: #f2f2f1;
+height: 15px;
+width: 400px;
+}
+.skills .bars .bar2b{
+background-color: #2ecc71;
+height: 15px;
+width: 330px;
+}
+.skills .bars .bar2b p{
+color: white;
+text-align: right;
+}
+
+.skills .bars .bar3a{
+background-color: #f2f2f1;
+height: 15px;
+width: 400px;
+}
+.skills .bars .bar3b{
+background-color: #2ecc71;
+height: 15px;
+width: 350px;
+}
+.skills .bars .bar3b p{
+color: white;
+text-align: right;
+}
+.skills .bars .bar4a{
+background-color: #f2f2f1;
+height: 20px;
+width: 400px;
+}
+.skills .bars .bar4b{
+background-color: #2ecc71;
+height: 20px;
+width: 300px;
+}
+.skills .bars .bar4b p{
+color: white;
+text-align: right;
+}
+.resume{
+height: 120px;
+width: 75%;
+background-color: #f2f2f1;
+text-align: center;
+padding: 60px 150px 60px 150px;
+}
+.resume a{
+border: 1.5px solid;
+border-color: #2ecc71;
+font-size: 15px;
+font-weight: bold;
+color: #2ecc71;
+padding: 7px;
+    text-decoration: none;
+
+}
+.edex{
+width: 100%;
+height: 1300px;
+background-color: white;
+}
+.edex .education{
+width: 100%;
+height: 500px;
+
+
+}
+.edex .education .myed{
+width: 500px;
+padding: 50px 20px 0px 150px;
+float: left;
+
+}
+ .edex .education .diplomas{
+width: 400px;
+float: left;
+padding: 90px 80px 0px 10px;
+
+}
+.edex .education .diplomas .cit{
+margin-top: 40px;
+
+}
+.edex .work .workexp{
+width: 500px;
+padding: 50px 20px 0px 125px;
+float: left;
+}
+.edex .work .right{
+width: 400px;
+float: left;
+padding: 90px 80px 0px 30px;
+
+}
+.edex .work .right .junior{
+padding-top: 15px;
+}
+.edex .work .right .web{
+padding-top: 15px;
+}
+.johnstone{
+height: 120px;
+width: 75%;
+background-color: #f2f2f1;
+text-align: center;
+padding: 60px 150px 60px 150px;
+}
+.port{
+text-align: center;
+width: 75%;
+padding: 60px 150px 50px 150px;
+height: 100px;
+}
+
+.lower{
+width:75%;
+/* Start Portfolio */
+.portfolio {
+padding-top: 40px;
+padding-bottom:  70px;
+text-align: center;
+}
+.portfolio .center h2 {
+color: #777;
+}
+
+.portfolio .center p {
+margin: 20px 70px 40px 50px;
+}
+
+.portfolio .center .our-work {
+overflow: hidden;
+}
+
+.portfolio .center .our-work div {
+float: left;
+width: 33.3333333%;
+    margin-bottom: 15px;
+}
+
+.portfolio .center .our-work div img {
+width: 92%;
+margin: 10px;
+padding: 3px;
+background-color: #FFF;
+
+}
+/* End Portfolio */
+
+/* Start Contact-Me */
+.contact-me {
+background-color: #252e30;
+overflow: hidden;
+padding-top: 40px;
+padding-bottom: 70px;
+    padding-left: 70px;
+}
+
+.contact-me .info-contact {
+width: 50%;
+}
+
+.contact-me h2 {
+color: #f6feff;
+}
+
+.contact-me p { 
+color: #5d6162;
+}
+.contact-me p strong {
+color:#dae0e1;
+}
+.contact-me .form-contact {
+width: 50%;
+}
+
+.contact-me .form-contact label {
+color: #dae0e1;
+margin-bottom: 20px;
+display: block;
+}
+
+.contact-me .form-contact input[type="text"] {
+
+background-color:#708287;
+padding: 10px; 
+color: #FFF;
+border: 0;
+width: 70%;
+margin-bottom: 10px;
+}
+
+.contact-me .form-contact textarea {
+
+background-color:#708287;
+padding: 10pxpx; 
+color: #FFF;
+border: 0;
+width: 70%;
+margin-bottom: 15px;
+height: 300px;
+}
+
+.contact-me .form-contact input[type="submit"] {
+
+background-color: #322b2b;
+color: #d8eaea;
+margin-top: 10px;
+padding: 9px;
+width: 30%;
+}
+
+/* End Contact-Me */
+
+
+
+
+
+.challenge{float: left;}
+p{line-height: 1.5;color:#777;text-align: left;}
+h2 ,h3 {color: #777;}
+
+
+/**/
+
+
+
+.clearfix{ 
+clear: both;
+
